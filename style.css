@@ -1,6 +1,9 @@
-
+body {
+  background-color: #989898;
+}
 h1 {
   text-align: center;
+  color: #ffffff;
 }
 h2 {
   margin: 0px;
