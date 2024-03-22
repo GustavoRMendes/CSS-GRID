@@ -1,7 +1,4 @@
-* { 
-  margin: 0;
-  padding: 0;
-}
+
 h1 {
   text-align: center;
 }
@@ -9,9 +6,11 @@ h2 {
   margin: 0px;
 }
 .box {
-  background-color: #141414;
+  background-color: #e7e7e7e7;
   padding: 20px;
-  color: #e7e7e7;
+  color: #141414;
+  border: 1px solid #989898;
+  border-radius: 4px;
 }
 .grid {
   display: grid;
