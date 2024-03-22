@@ -19,3 +19,11 @@ h2 {
   gap: 20px;
   height: 400px;
 }
+
+button {
+  background-color: #123982;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+}
