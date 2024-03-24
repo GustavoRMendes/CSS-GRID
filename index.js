@@ -1,6 +1,9 @@
 const spider = document.querySelector('#spider')
 const flash = document.querySelector('#flash')
 const iron = document.querySelector('#iron')
+const ufc = document.querySelector('#ufc')
+const fifa22 = document.querySelector('#fifa22')
+const fifa23 = document.querySelector('#fifa23')
 
 function comprar() {
   confirm('Confirma sua compra? ')
@@ -15,3 +18,6 @@ function comprar() {
 spider.addEventListener('click',comprar)
 flash.addEventListener('click',comprar)
 iron.addEventListener('click',comprar)
+ufc.addEventListener('click',comprar)
+fifa22.addEventListener('click',comprar)
+fifa23.addEventListener('click',comprar)
