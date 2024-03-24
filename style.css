@@ -17,10 +17,10 @@ h2 {
 }
 .grid {
   display: grid;
-  grid-template-columns: 300px 300px 300px;
+  grid-template-columns: 300px 300px ;
   place-content: center;
   gap: 20px;
-  height: 400px;
+  height: 600px;
 }
 
 button {
